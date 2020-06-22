@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EE619B90-8CF3-4472-922D-ECD2A251111F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5BEF261-66D4-4E35-AB1F-7AB71F8B5A74"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/NSObject.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2321"
+            endingLineNumber = "2321"
+            landmarkName = "+alloc"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "25A926C8-01F1-4219-9248-00DA2DF53F3F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x100009001">
+            <Locations>
+               <Location
+                  uuid = "25A926C8-01F1-4219-9248-00DA2DF53F3F - 3c35a2dfe7dc7465"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_dyld_start"
+                  moduleName = "dyld"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "1">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6D9310E-D432-44E8-9F66-E872F9217498"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/NSObject.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1704"
+            endingLineNumber = "1704"
+            landmarkName = "callAlloc(cls, checkNil)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "F6D9310E-D432-44E8-9F66-E872F9217498 - 6c647b0a6eb10f54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_objc_rootAlloc"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denty/work/dentyCode/opensource/objc4-781.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1704"
+                  endingLineNumber = "1704"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "F6D9310E-D432-44E8-9F66-E872F9217498 - af6aa92bebf3db5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_alloc"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denty/work/dentyCode/opensource/objc4-781.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1704"
+                  endingLineNumber = "1704"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "F6D9310E-D432-44E8-9F66-E872F9217498 - 642bcb62648aab1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_allocWithZone"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denty/work/dentyCode/opensource/objc4-781.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1704"
+                  endingLineNumber = "1704"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "F6D9310E-D432-44E8-9F66-E872F9217498 - d7fd9af459323664"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_alloc_init"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denty/work/dentyCode/opensource/objc4-781.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1704"
+                  endingLineNumber = "1704"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "F6D9310E-D432-44E8-9F66-E872F9217498 - 9311fcaeeea5f34b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_opt_new"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denty/work/dentyCode/opensource/objc4-781.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1704"
+                  endingLineNumber = "1704"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "F6D9310E-D432-44E8-9F66-E872F9217498 - 571594761b1c461a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[NSObject new]"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denty/work/dentyCode/opensource/objc4-781.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1704"
+                  endingLineNumber = "1704"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
